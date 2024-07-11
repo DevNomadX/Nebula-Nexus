@@ -1,0 +1,21 @@
+{
+  "name": "nebula-nexus",
+  "displayName": "Nebula Nexus",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nebula Nexus: Celestial Dawn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nebula Nexus Celestial Dawn-color-theme.json"
+      }
+    ]
+  }
+}
